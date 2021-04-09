@@ -4,9 +4,10 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Ssaugawellness-stronger-together
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Ssaugawellness  Stronger-Together
+  content: 'Welcome to ssauga wellness. We are a team of dedicated holistic nutritionists
+    determined to provide health and wellness solutions using alternative solutions
+    to medication. '
   button:
     enable: true
     label: Explore Us
