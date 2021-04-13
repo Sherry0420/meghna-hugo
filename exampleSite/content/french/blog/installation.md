@@ -2,7 +2,7 @@
 title: How To Setup Meghna Hugo
 date: 2018-09-12T14:51:12.000+06:00
 author: Mark Dinn
-image_webp: images/blog/meghna.webp
+image_webp: "/images/sw-2.jpg"
 image: "/images/sw3.jpg"
 description: ssaugawellness-for happier & healthier you
 
